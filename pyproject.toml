@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "web-test"
+name = "leanpub-test"
 version = "0.1.0"
-description = "python + pytest + selene + allure web tests project template"
-authors = ["Iakiv Kramarenko <yashaka@gmail.com>"]
+description = "python + pytest + selene + allure web tests project"
+authors = ["Datsenko Volodymyr <nastavnyk@gmail.com>", "Iakiv Kramarenko <yashaka@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
